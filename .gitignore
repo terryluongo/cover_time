@@ -1,4 +1,5 @@
 .ipynb_checkpoints/*
+*.svg
 .DS_STORE
 *.gv
 *.pdf
